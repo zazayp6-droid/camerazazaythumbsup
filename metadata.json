@@ -1,0 +1,6 @@
+{
+  "name": "ThumbSnap Gallery",
+  "description": "Gesture-controlled camera that captures photos with a thumbs up using MediaPipe Hands and local storage.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
